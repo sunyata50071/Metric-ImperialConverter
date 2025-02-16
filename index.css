@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: black;
+    font-family: "Cormorant";
+    font-size: 22px;
+}
+
+#site-opening {
+    background: #e85d04;
+    color: black;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#number-to-convert {
+    margin-bottom: 15px;
+}
+
+#conversions {
+    color: white;
+    margin-bottom: 20px;
+}
+
+#conversion-types {
+    color: #8dbd4c
+}
+
+#conversion-button {
+    background-color: #00bbf9;
+    color: black;
+    border: none;
+    font-family: "Cormorant";
+    padding: 10px 20px;
+    font-size: 18px;
+    font-style: bold;
+}
